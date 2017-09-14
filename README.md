@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+EvilWeevil here, I like carbon-based lifeforms and coffee (that's what I run on)
